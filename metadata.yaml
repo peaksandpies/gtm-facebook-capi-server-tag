@@ -15,5 +15,7 @@
 homepage: "https://www.peaksandpies.com"
 documentation: "https://github.com/peaksandpies/gtm-facebook-capi-server-tag#readme"
 versions:
+  - sha: 47d9a42b4093036d3ce0b8ef7e9d19b5a8924315
+    changeNotes: Updated README
   - sha: 21697e60e27bd845e90ef84aded5e56017deaf3d
     changeNotes: Initial version
